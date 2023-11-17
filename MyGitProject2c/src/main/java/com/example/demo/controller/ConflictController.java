@@ -1,6 +1,6 @@
 package com.example.demo.controller;
 
-public class Confrictller {
+public class ConflictController {
 	//4
 	//5
 	//6
